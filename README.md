@@ -20,7 +20,6 @@
 <a href="https://twitter.com/shu8up" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shu8up" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shan61916" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shan61916" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/9106339" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="9106339" height="30" width="40" /></a>
-<a href="https://codesandbox.com/shubham sharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="shubham sharma" height="30" width="40" /></a>
 <a href="https://fb.com/shan61916" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="shan61916" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/shan01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shan01" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shan61916" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="shan61916" height="30" width="40" /></a>
