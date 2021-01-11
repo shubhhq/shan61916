@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shan61916@gmail.com**
 
-- 📄 Know about my experiences [view my resume](https://drive.google.com/file/d/1OZFkXNNa3SRMMo0Ph8u9MBwqrFZnHPFl/view?usp=sharing)
+- 📄 Know about my experiences [view my resume](https://drive.google.com/file/d/1fj9LzcVfop2vjzTfFR2ncF_9oc0rNLop/view?usp=sharing)
 
 - ⚡ Fun fact **My humour weighs more than node_modules**
 
